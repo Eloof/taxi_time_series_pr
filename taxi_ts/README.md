@@ -12,3 +12,13 @@
 pandas
 
 matplotlib
+
+statsmodels
+
+sklearn
+
+xgboost
+
+lightgbm
+
+catboost
